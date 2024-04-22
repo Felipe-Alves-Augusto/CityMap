@@ -1,11 +1,11 @@
-#Tecnologias usadas
+# Tecnologias usadas
 
 - React
 - Laravel
 - PostgreSql
 
 
-#Bibliotecas usadas no React
+# Bibliotecas usadas no React
 
 - Tailwind Css
 - Leaflet
