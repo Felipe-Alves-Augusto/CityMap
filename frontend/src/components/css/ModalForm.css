@@ -1,0 +1,27 @@
+.modal {
+    background-color: #fff;
+    width: 600px;
+    left: 50%;
+    top: 0;
+    transform: translateX(-50%);
+    position: absolute;
+    z-index: 99999;
+    padding: 20px;
+}
+
+.modal form .form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.footer-form {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+.disabled{
+    color: #aaa !important;
+    cursor: not-allowed !important;
+}

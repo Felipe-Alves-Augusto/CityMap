@@ -1,0 +1,46 @@
+.aside {
+    position: absolute;
+    z-index: 999;
+    width: 300px;
+    background-color: #fff;
+    left: 1%;
+    top: 15%;
+}
+
+.category-name {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.circle {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    
+}
+
+.green{
+    background-color: lime;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.pink {
+    background-color: cyan;
+}
+
+.purple{
+    background-color: purple;
+}
