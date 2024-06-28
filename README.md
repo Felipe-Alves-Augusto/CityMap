@@ -6,12 +6,15 @@ Bem-vindo ao CityMap, uma aplicação inovadora que permite a você explorar e r
 🗺️ **Cadastro de Pontos de Interesse**
 
 - Registre novos pontos de interesse simplesmente clicando no mapa. Seja um café charmoso, um ponto turístico ou qualquer outro local que você queira destacar!
+  
 📍 **Localização Precisa**
 
 - Utilize a precisão do Leaflet para selecionar e marcar locais com exatidão no mapa, garantindo que seus pontos de interesse estejam corretamente posicionados.
+  
 📝 **Informações Detalhadas**
 
 - Adicione descrições, categorias e outras informações relevantes aos pontos de interesse para facilitar a identificação e a navegação.
+  
 🔎 **Visualização Interativa**
 
 - Explore os pontos de interesse diretamente no mapa, com uma interface de usuário amigável e responsiva, graças ao React.
